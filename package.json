@@ -1,0 +1,16 @@
+{
+  "name": "vercel-image-api",
+  "version": "1.0.0",
+  "description": "Vercel API for serving images",
+  "main": "api/index.js",
+  "scripts": {
+    "dev": "node api/index.js",
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": "18"
+  }
+}
